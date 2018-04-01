@@ -1,0 +1,2 @@
+query func1
+query2 func2

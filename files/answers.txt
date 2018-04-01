@@ -1,0 +1,3 @@
+query [ans,ans2,ans3]
+query2 [ans,ans2,ans3]
+query3 [ans111,ans1112,ans1113]
